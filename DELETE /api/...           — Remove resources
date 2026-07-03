@@ -1,0 +1,16 @@
+
+## Position Display Logic
+
+The app uses color-coded position classes:
+
+| Position | Class | Color |
+|----------|-------|-------|
+| #1 | `pos-1` | Green (top rank) |
+| #2-3 | `pos-3` | Light green |
+| #4-10 | `pos-10` | Yellow |
+| #11-20 | `pos-20` | Orange |
+| Not Found | `pos-nf` | Red |
+
+## In Short
+
+A local SEO tool for tracking and analyzing Google Business Profile search rankings over time.
